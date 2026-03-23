@@ -1,6 +1,6 @@
 # dwarf2cpp
 
-[![Build Status](https://github.com/endstone-insider/dwarf2cpp/actions/workflows/build.yml/badge.svg)](https://github.com/endstone-insider/dwarf2cpp/actions)
+[![Build Status](https://github.com/EndstoneMC/dwarf2cpp/actions/workflows/build.yml/badge.svg)](https://github.com/EndstoneMC/dwarf2cpp/actions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 
@@ -21,7 +21,7 @@ Since dwarf2cpp uses **pybind11** to access LLVM's DWARF DebugInfo module from P
 * On macOS: **Apple Clang (Xcode Command Line Tools)**
 
 ```
-git clone https://github.com/endstone-insider/dwarf2cpp.git
+git clone https://github.com/EndstoneMC/dwarf2cpp.git
 cd dwarf2cpp
 pip install .
 ```
